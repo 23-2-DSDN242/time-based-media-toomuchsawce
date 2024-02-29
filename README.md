@@ -5,3 +5,6 @@
 ### THIS IS YOUR README
 
 Update this file as you go along to record your progress.
+
+29/02/24:
+Updated sketch.jpg with initial iea
