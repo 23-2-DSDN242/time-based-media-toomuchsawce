@@ -7,4 +7,14 @@
 Update this file as you go along to record your progress.
 
 29/02/24:
-Updated sketch.jpg with initial iea
+Updated sketch.jpg with initial idea
+
+5/03/24
+Began coding final clock project
+Started with setting background colour and doing the "tubes"
+Began maeda clock
+
+6/03/24
+Finished maeda clock to a minimal accepted standard, will slightly improve slowly until final submission
+
+
