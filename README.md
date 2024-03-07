@@ -17,4 +17,15 @@ Began maeda clock
 6/03/24
 Finished maeda clock to a minimal accepted standard, will slightly improve slowly until final submission
 
+7/03/24
+Huge progress with clock assignment:
+- Choreographed minutes with horizontal bars
+- Thus, choreographed vertical bars to each hour
+- Added seconds into the corner, therefore covering all minimum requirements
+- Slightly stylized i.e digital font
 
+Looking for more visual improvements and will share with Pheobe to get feedback on anything I may have missed or could be used to improve my work
+
+- Made some colour adjustments
+- Added a slight gradient that flashes in accordance to the milliseconds, adding a new indicator for time as per the brief
+- Looking to incorporate a digital stereo audio equalizer sort of aesthetic
