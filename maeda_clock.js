@@ -9,13 +9,13 @@ function draw_clock(obj) {
   fill(255, 255, 0);
   noStroke();
 
-// Draw squares
+// draw squares
 for (let i = 0; i < squares.length; i++) {
   fill(128); // Grey color
   rect(squares[i].x, squares[i].y, squares[i].size, squares[i].size); // Draw the square
 }
 
-// Draw squares at a slower rate
+// squares timing
 if (frameCounter % 1 === 0 && squareCounter < 999999) { // Adjust the divisor to control speed
   fill(128); // Grey color
   let x = random(100, 800); // Random x-coordinate
@@ -26,7 +26,7 @@ if (frameCounter % 1 === 0 && squareCounter < 999999) { // Adjust the divisor to
   squareCounter++;
 }
 
-// Update square lifespans and remove expired squares
+// square lifespans and remove expired squares
 for (let i = squares.length - 1; i >= 0; i--) {
   squares[i].lifespan--;
   if (squares[i].lifespan <= 0) {

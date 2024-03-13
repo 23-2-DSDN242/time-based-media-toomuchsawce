@@ -29,3 +29,7 @@ Looking for more visual improvements and will share with Pheobe to get feedback 
 - Made some colour adjustments
 - Added a slight gradient that flashes in accordance to the milliseconds, adding a new indicator for time as per the brief
 - Looking to incorporate a digital stereo audio equalizer sort of aesthetic
+
+12/03/24 
+
+Incorporated alarm function, needs improvement
